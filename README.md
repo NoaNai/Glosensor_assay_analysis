@@ -1,4 +1,6 @@
-# Project proposal
+# Glosensor Luciferase Assay: Project proposal
+[Noa Nairner](https://noanai.github.io/) and [Ori Berman](https://ori1992.github.io/)
+
 We plan to write a script that will interactively interpret data from an experiment via a GUI. 
 
 Our raw data is an excel spreadsheet containing results from a 96-well plate, each row is a measurement of one well over time. The same conditions are repeated three times in consecutive rows. 
