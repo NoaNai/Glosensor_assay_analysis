@@ -1,1 +1,8 @@
-# WIS_python_final_project
+# Project proposal
+We plan to write a script that will interactively interpret data from an experiment via a GUI. 
+
+Our raw data is an excel spreadsheet containing results from a 96-well plate, each row is a measurement of one well over time. The same conditions are repeated three times in consecutive rows. 
+
+The script will plot each row data over time and display the graphs as a matrix in the GUI. The user is requested to select any graphs that seem unusual to be marked as outliers and the data to be removed from further analysis. 
+
+The script will analyze the data based on user range inputs (subtract the corresponding baseline, normalize each data point by dividing by the row max value, calculate the average values for repetitions of the same conditions) and output a results spreadsheet, as well as another graphs matrix that plot the analyzed data. 
