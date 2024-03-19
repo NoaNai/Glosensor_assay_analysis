@@ -1,0 +1,7 @@
+jupyter notebook
+numpy
+matplotlib
+pandas
+ipympl
+ipywidgets
+pickleshare
