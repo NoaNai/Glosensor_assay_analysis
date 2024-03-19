@@ -15,7 +15,7 @@ This script is run via jupyter notebook. Please make sure you install jupyter no
 ```python
 pip install jupyter
 ```
-In the project folder containing the data file, open jupyter notebook.
+In the project folder containing the data file, open jupyter notebook. Download both script files to that folder and open with jupyter.
 
 The script requires the following modules to be installed: numpy, matplotlib, pandas, ipywidgets, pickleshare.
 ```python
