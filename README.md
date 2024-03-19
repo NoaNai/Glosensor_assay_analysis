@@ -13,7 +13,7 @@ The script will analyze the data based on user range inputs (subtract the corres
 # Script Requirements
 This script is run via jupyter notebook. Please make sure you install jupyter notebook:
 ```python
-pip install jupyter notebook
+pip install jupyter
 ```
 In the project folder containing the data file, open jupyter notebook.
 
