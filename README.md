@@ -23,7 +23,7 @@ pip install numpy matplotlib pandas ipympl ipywidgets pickleshare
 ```
 
 # Description
-The repository contains 2 scripts: 1-Glosensor_plot_raw_data.ipynb and 2-Glosensor_assay_analyze_data.ipynb,hich should be run consecutively.
+The repository contains 2 scripts: 1-Glosensor_plot_raw_data.ipynb and 2-Glosensor_assay_analyze_data.ipynb, which should be run consecutively.
 
 The first script allows the user to input an excel raw data file, and visualize each raw data row graphically in order to decide which rows to exclude from further analysis. This graph matrix opens automatically as a pdf file in the active folder. Please input the file with the extension, i.e. "DMEM_PLATE2_WORKFLOW.xlsx".
 The user can choose an examplary row to plot interactively in the notebook and zoom in and out. 
