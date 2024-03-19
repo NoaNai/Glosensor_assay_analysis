@@ -27,7 +27,7 @@ The repository contains 2 scripts: 1-Glosensor_plot_raw_data.ipynb and 2-Glosens
 
 The first script allows the user to input an excel raw data file, and visualize each raw data row graphically in order to decide which rows to exclude from further analysis. This graph matrix opens automatically as a pdf file in the active folder. Please input the file with the extension, i.e. "DMEM_PLATE2_WORKFLOW.xlsx".
 The user can choose an examplary row to plot interactively in the notebook and zoom in and out. 
-At the end of script 1 are input widgets for the user to choose which rows to exclude, what the repitition value is (i.e. duplicates or triplicates) and what ranges of time should the program regard as baseline and max value. Example values are given as defaults.
+At the end of script 1 are input widgets for the user to choose which rows to exclude, what the repitition value is (i.e. duplicates or triplicates) and what ranges of time should the program regard as baseline and max value. Example values are given as defaults. Once you have changed the the values, please re-run the final cell in order to save the changed values.
 
 The second script takes the chosen values from the first script and analyzes the data accordingly. The outputs are:
 - pdf file of normalized graphs matrix
